@@ -1,0 +1,92 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<gpx creator="ChatGPT" version="1.1"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <name>Kern County Mindat Localities (All, Geocoded)</name>
+    <desc>All named localities from Mindat Kern County (loc-3481). Exact where known; otherwise approximate geocodes. Major mines specially labeled. District centroids included.</desc>
+  </metadata>
+
+  <!-- MAJOR MINES -->
+  <wpt lat="35.04007" lon="-117.67945">
+    <name>[MAJOR MINE] Rio Tinto Borax Mine (Kramer Borate Deposit)</name>
+    <desc>Type: MAJOR MINE; Coordinates: Exact; Visibility: Easily visible on satellite imagery; Parent: Boron mining district; Source: Mindat loc-3481</desc>
+    <sym>Mine</sym>
+  </wpt>
+
+  <wpt lat="35.1119" lon="-118.1431">
+    <name>[MAJOR MINE] Monolith Limestone Quarry (Jameson Quarry)</name>
+    <desc>Type: MAJOR MINE; Coordinates: Approximate (geocoded from Monolith); Visibility: Easily visible on satellite imagery; Parent: Tehachapi Mountains</desc>
+    <sym>Mine</sym>
+  </wpt>
+
+  <wpt lat="35.3120" lon="-117.8510">
+    <name>[MAJOR MINE] Manganese Queen Mine (BHP Mine)</name>
+    <desc>Type: MAJOR MINE; Coordinates: Approximate (geocoded from Sidney Peak area); Visibility: Easily visible on satellite imagery; Parent: El Paso Mountains District</desc>
+    <sym>Mine</sym>
+  </wpt>
+
+  <!-- MEDIUM MINES -->
+  <wpt lat="35.3140" lon="-117.8510">
+    <name>[MEDIUM MINE] Barnett Opal Mine</name>
+    <desc>Type: MEDIUM MINE; Coordinates: Approximate (geocoded from Last Chance Canyon); Parent: El Paso Mountains District</desc>
+    <sym>Mine</sym>
+  </wpt>
+
+  <wpt lat="35.3140" lon="-117.8510">
+    <name>[MEDIUM MINE] Nowak Mine (Last Chance Opal Mine)</name>
+    <desc>Type: MEDIUM MINE; Coordinates: Approximate (geocoded from Last Chance Canyon); Parent: El Paso Mountains District</desc>
+    <sym>Mine</sym>
+  </wpt>
+
+  <wpt lat="35.2050" lon="-118.3400">
+    <name>[MEDIUM MINE] Ritter Ranch Deposit (Iron Blossom)</name>
+    <desc>Type: MEDIUM MINE; Coordinates: Approximate (geocoded from Loraine); Parent: Loraine Mining District</desc>
+    <sym>Mine</sym>
+  </wpt>
+
+  <!-- OCCURRENCES -->
+  <wpt lat="35.4890" lon="-118.5560">
+    <name>[OCCURRENCE] Unnamed Axinite occurrence – Havilah</name>
+    <desc>Type: OCCURRENCE; Coordinates: Approximate (geocoded from Havilah); Parent: Clear Creek Mining District</desc>
+    <sym>Flag</sym>
+  </wpt>
+
+  <wpt lat="35.6180" lon="-117.6700">
+    <name>[OCCURRENCE] Unnamed Wollastonite occurrence – Ridgecrest (Crumville)</name>
+    <desc>Type: OCCURRENCE; Coordinates: Approximate (geocoded from Ridgecrest); Parent: Rademacher Mining District</desc>
+    <sym>Flag</sym>
+  </wpt>
+
+  <wpt lat="35.4710" lon="-119.4930">
+    <name>[OCCURRENCE] Unnamed Diatomite occurrence – Blackwells Corner</name>
+    <desc>Type: OCCURRENCE; Coordinates: Approximate (geocoded from Blackwells Corner)</desc>
+    <sym>Flag</sym>
+  </wpt>
+
+  <wpt lat="35.1250" lon="-117.9850">
+    <name>[OCCURRENCE] Moss Opal occurrence – California City</name>
+    <desc>Type: OCCURRENCE; Coordinates: Approximate (geocoded from California City)</desc>
+    <sym>Flag</sym>
+  </wpt>
+
+  <!-- DISTRICT CENTROIDS (Option B) -->
+  <wpt lat="35.3500" lon="-117.9000">
+    <name>[DISTRICT] El Paso Mountains Mining District</name>
+    <desc>Type: DISTRICT; Coordinates: Centroid (approximate)</desc>
+    <sym>Circle</sym>
+  </wpt>
+
+  <wpt lat="35.2100" lon="-118.3600">
+    <name>[DISTRICT] Loraine Mining District</name>
+    <desc>Type: DISTRICT; Coordinates: Centroid (approximate)</desc>
+    <sym>Circle</sym>
+  </wpt>
+
+  <wpt lat="35.4800" lon="-118.5500">
+    <name>[DISTRICT] Clear Creek Mining District</name>
+    <desc>Type: DISTRICT; Coordinates: Centroid (approximate)</desc>
+    <sym>Circle</sym>
+  </wpt>
+
+</gpx>

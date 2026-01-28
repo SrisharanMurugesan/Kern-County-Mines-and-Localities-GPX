@@ -1,0 +1,637 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<gpx creator="ChatGPT" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Kern County Mindat – 90 Localities (Template)</name>
+    <desc>90 locality strings previously listed in chat. Coordinates are placeholders until geocoded. Major mines are labeled with [MAJOR MINE].</desc>
+  </metadata>
+  <wpt lat="0.0" lon="0.0">
+    <name>C and H Materials Company Placer Mine</name>
+    <desc>C and H Materials Company Placer Mine, Bakersfield (Alkali City), Kern County, California, USA — native gold placer mine.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>China Grade Flats Placer Mine</name>
+    <desc>China Grade Flats Placer Mine, Bakersfield (Alkali City), Kern County, California, USA — native gold placer mine.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Mohawk-Buddy Mine</name>
+    <desc>Mohawk-Buddy Mine, Butterbredt Peak (Butterbread Peak), Kern County, California, USA — native gold occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>San Antonio Mine</name>
+    <desc>San Antonio Mine, Butterbredt Peak (Butterbread Peak), Kern County, California, USA — gold occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Drunkards Dream Mine</name>
+    <desc>Drunkards Dream Mine, Clear Creek Mining District, Havilah, Kern County, California, USA — native gold occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Barnett Opal Mine</name>
+    <desc>Barnett Opal Mine, Silica Gem claims, Last Chance Canyon, El Paso Mountains District, Kern County, California, USA — opal and fire opal.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Nowak Mine (Last Chance Opal Mine; Nowak Fire Opal Mine; Cowden Mine)</name>
+    <desc>Nowak Mine (Last Chance Opal Mine; Nowak Fire Opal Mine; Cowden Mine), Last Chance Canyon, El Paso Mountains District, Kern County, California, USA — opal locality.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Unspecified Opal occurrence [1]</name>
+    <desc>Unspecified Opal occurrence [1], Last Chance Canyon, El Paso Mountains District, Kern County, California, USA — opal occurrence not tied to a specific mine name.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Red Rock Canyon prospects</name>
+    <desc>Red Rock Canyon prospects, Ricardo, El Paso Mountains District, Kern County, California, USA — opal and related silica occurrences.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Tom Moore Mine</name>
+    <desc>Tom Moore Mine, Erskine Creek deposits, Lake Isabella, Erskine Creek Mining District, Kern County, California, USA — native antimony occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Antimony Peak deposit (San Emigdio Mine; San Emigdio-Antimony Peak; Antimony Peak Mine)</name>
+    <desc>Antimony Peak deposit (San Emigdio Mine; San Emigdio-Antimony Peak; Antimony Peak Mine), Antimony Peak, Kern County, California, USA — antimony occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>[MAJOR MINE] Boron</name>
+    <desc>Boron, Kern County, California, USA — locality referenced for minerals such as arseniosiderite and borate minerals.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Desert Queen Mine</name>
+    <desc>Desert Queen Mine, Standard group, Standard Hill, Mojave, Mojave-Rosamond Mining District, Kern County, California, USA — native sulfur occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Gem Hill</name>
+    <desc>Gem Hill, Rosamond Hills, Rosamond, Mojave-Rosamond Mining District, Kern County, California, USA — agate and quartz localities.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Horse Canyon Agate Beds</name>
+    <desc>Horse Canyon Agate Beds, Sugarloaf Mountain, Loraine Mining District, Kern County, California, USA — agate and related quartz minerals.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Greenhorn District</name>
+    <desc>Greenhorn District, Kern County, California, USA — quartz and agate occurrences (district-level entry).
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Big Blue Group Mines</name>
+    <desc>Big Blue Group Mines, Wofford Heights, Cove Mining District, Kern County, California, USA — group of mines with gold occurrences.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Blackhawk Mine</name>
+    <desc>Blackhawk Mine, Clear Creek Mining District, Havilah, Kern County, California, USA — gold and sulfide mineral occurrences.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Bodie Mine</name>
+    <desc>Bodie Mine, Havilah area, Clear Creek Mining District, Kern County, California, USA — gold occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Burton-Brite-Blank Mine (Burton Mine; Brite Mine)</name>
+    <desc>Burton-Brite-Blank Mine (Burton Mine; Brite Mine), Middle Buttes deposit, Mojave-Rosamond Mining District, Kern County, California, USA — metal-bearing mineral occurrences.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Cactus Gold Mine (Blue Eagle Mine; Cactus Queen Mine)</name>
+    <desc>Cactus Gold Mine (Blue Eagle Mine; Cactus Queen Mine), Middle Buttes deposit, Mojave-Rosamond Mining District, Kern County, California, USA — gold occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Cowboy Mine (Old Cowboy Mine; Zada Mine; Gold Peak Mine)</name>
+    <desc>Cowboy Mine (Old Cowboy Mine; Zada Mine; Gold Peak Mine), Loraine Mining District, Kern County, California, USA — gold occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Desert Queen Mine (2)</name>
+    <desc>Desert Queen Mine, Standard Hill, Mojave-Rosamond Mining District, Kern County, California, USA — sulfur and associated mineral occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Duncan Mining District localities</name>
+    <desc>Duncan Mining District localities, Kern County, California, USA — district entry.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>El Paso Mountains District localities</name>
+    <desc>El Paso Mountains District localities, Kern County, California, USA — district entry.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Goler Heights localities</name>
+    <desc>Goler Heights localities, El Paso Mountains District, Kern County, California, USA — area entry.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Greenback Mine (Weringer Mine)</name>
+    <desc>Greenback Mine (Weringer Mine), Woody Mining District, Kern County, California, USA — sulfide and copper-bearing mineral occurrences.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Hogan-Mallery Tin Mine (Hogan Tin Mine; Meek Tin Mine)</name>
+    <desc>Hogan-Mallery Tin Mine (Hogan Tin Mine; Meek Tin Mine), Tejon area, Kern County, California, USA — tin mineral occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>[MAJOR MINE] Jameson Quarry (Monolith Limestone Quarry; Blue Diamond deposit)</name>
+    <desc>Jameson Quarry (Monolith Limestone Quarry; Blue Diamond deposit), Monolith, Tehachapi Mountains, Kern County, California, USA — limestone and associated minerals.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Kelly Mine</name>
+    <desc>Kelly Mine, Kern County, California, USA — stibnite-related mineral occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Kergon Mine (Buckeye group; Kergon-Buckeye Mine)</name>
+    <desc>Kergon Mine (Buckeye group; Kergon-Buckeye Mine), Miracle Hot Springs (Hobo Hot Springs), Kern River Uranium Mining District, Kern County, California, USA — uranium and associated mineral occurrences.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Koehn Lake area localities</name>
+    <desc>Koehn Lake area localities, Kern County, California, USA — area entry.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>[MAJOR MINE] Manganese Queen Mine (BHP Mine)</name>
+    <desc>Manganese Queen Mine (BHP Mine), Sidney Peak, Kern County, California, USA — manganese mineral occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Miracle Mine</name>
+    <desc>Miracle Mine, Miracle Hot Springs (Hobo Hot Springs), Kern River Uranium Mining District, Kern County, California, USA — uranium mineral occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Piute Mountain District localities</name>
+    <desc>Piute Mountain District localities, Kern County, California, USA — district entry.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Red Buttes localities</name>
+    <desc>Red Buttes localities, Kern County, California, USA — area entry.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Ritter Ranch deposit (Iron Blossom deposit)</name>
+    <desc>Ritter Ranch deposit (Iron Blossom deposit), Loraine Mining District, Kern County, California, USA — iron mineral occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>San Emigdio Canyon localities</name>
+    <desc>San Emigdio Canyon localities, Kern County, California, USA — area entry.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>St. Lawrence Mine (St. Lawrence Rand Mine; K.C.N. Mine; Isabella Mine)</name>
+    <desc>St. Lawrence Mine (St. Lawrence Rand Mine; K.C.N. Mine; Isabella Mine), Kern County, California, USA — stibnite and associated mineral occurrences.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Unnamed Axinite occurrence</name>
+    <desc>Unnamed Axinite occurrence, Havilah, Clear Creek Mining District, Kern County, California, USA — axinite mineral occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Unnamed Diatomite occurrence</name>
+    <desc>Unnamed Diatomite occurrence, Blackwells Corner area, Kern County, California, USA — diatomite occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Unnamed Wollastonite occurrence</name>
+    <desc>Unnamed Wollastonite occurrence, Ridgecrest (Crumville), Rademacher Mining District, Kern County, California, USA — wollastonite occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Unnamed Pumice quarry</name>
+    <desc>Unnamed Pumice quarry, West Baker area, Kern County, California, USA — pumice occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>China Lake Mine</name>
+    <desc>China Lake Mine, China Lake area, Kern County, California, USA — mineral occurrence.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Castle Butte localities</name>
+    <desc>Castle Butte localities, California City area, Kern County, California, USA — area entry.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Gem Hill prospects</name>
+    <desc>Gem Hill prospects, Rosamond Hills, Mojave-Rosamond Mining District, Kern County, California, USA — quartz and agate occurrences.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Horse Canyon localities</name>
+    <desc>Horse Canyon localities, Sugarloaf Mountain, Loraine Mining District, Kern County, California, USA — agate and silica mineral occurrences.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Woody area prospects</name>
+    <desc>Woody area prospects, Woody Mining District, Kern County, California, USA — area entry.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Erskine Creek deposits</name>
+    <desc>Erskine Creek deposits, Lake Isabella area, Kern County, California, USA — antimony and associated mineral occurrences.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Clear Creek area prospects</name>
+    <desc>Clear Creek area prospects, Havilah area, Kern County, California, USA — gold and sulfide mineral occurrences.
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Apache Mine</name>
+    <desc>Apache Mine, El Paso Mountains District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Basin View Mine</name>
+    <desc>Basin View Mine, Clear Creek Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Buckhorn Mine</name>
+    <desc>Buckhorn Mine, Clear Creek Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Blackhawk Mine (2)</name>
+    <desc>Blackhawk Mine, Clear Creek Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Big Indian Mine</name>
+    <desc>Big Indian Mine, Government Peak area, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Butterbredt Peak</name>
+    <desc>Butterbredt Peak, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Castle Butte</name>
+    <desc>Castle Butte, California City area, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Clear Creek Mining District</name>
+    <desc>Clear Creek Mining District, Havilah area, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Cowden Mine</name>
+    <desc>Cowden Mine, Last Chance Canyon, El Paso Mountains District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Crumville (Ridgecrest)</name>
+    <desc>Crumville (Ridgecrest), Rademacher Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Desert Queen Mine (3)</name>
+    <desc>Desert Queen Mine, Standard Hill, Mojave-Rosamond Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Drunkards Dream Mine (2)</name>
+    <desc>Drunkards Dream Mine, Havilah, Clear Creek Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>El Paso Mountains District</name>
+    <desc>El Paso Mountains District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Erskine Creek Mining District</name>
+    <desc>Erskine Creek Mining District, Lake Isabella area, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Garlock</name>
+    <desc>Garlock, El Paso Mountains District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Gem Hill (2)</name>
+    <desc>Gem Hill, Rosamond Hills, Mojave-Rosamond Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Goler Heights</name>
+    <desc>Goler Heights, El Paso Mountains District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Government Peak</name>
+    <desc>Government Peak, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Greenback Mine (Weringer Mine) (2)</name>
+    <desc>Greenback Mine (Weringer Mine), Woody Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Havilah</name>
+    <desc>Havilah, Clear Creek Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Horse Canyon</name>
+    <desc>Horse Canyon, Loraine Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>[MAJOR MINE] Jameson Quarry (Monolith Limestone Quarry)</name>
+    <desc>Jameson Quarry (Monolith Limestone Quarry), Monolith, Tehachapi Mountains, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Kergon Mine</name>
+    <desc>Kergon Mine, Miracle Hot Springs, Kern River Uranium Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Koehn Lake</name>
+    <desc>Koehn Lake, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Last Chance Canyon</name>
+    <desc>Last Chance Canyon, El Paso Mountains District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Loraine Mining District</name>
+    <desc>Loraine Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>[MAJOR MINE] Manganese Queen Mine (BHP Mine) (2)</name>
+    <desc>Manganese Queen Mine (BHP Mine), Sidney Peak, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Middle Buttes deposit</name>
+    <desc>Middle Buttes deposit, Mojave-Rosamond Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Miracle Hot Springs (Hobo Hot Springs)</name>
+    <desc>Miracle Hot Springs (Hobo Hot Springs), Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>[MAJOR MINE] Monolith</name>
+    <desc>Monolith, Tehachapi Mountains, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Nowak Mine (Last Chance Opal Mine)</name>
+    <desc>Nowak Mine (Last Chance Opal Mine), Last Chance Canyon, El Paso Mountains District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Red Rock Canyon</name>
+    <desc>Red Rock Canyon, Ricardo, El Paso Mountains District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Ridgecrest (Crumville)</name>
+    <desc>Ridgecrest (Crumville), Rademacher Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Ritter Ranch deposit (Iron Blossom deposit) (2)</name>
+    <desc>Ritter Ranch deposit (Iron Blossom deposit), Loraine Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>San Emigdio Canyon</name>
+    <desc>San Emigdio Canyon, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>San Emigdio Mine (Antimony Peak deposit)</name>
+    <desc>San Emigdio Mine (Antimony Peak deposit), Antimony Peak, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Sidney Peak</name>
+    <desc>Sidney Peak, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Standard Hill</name>
+    <desc>Standard Hill, Mojave-Rosamond Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>St. Lawrence Mine (St. Lawrence Rand Mine; K.C.N. Mine; Isabella Mine) (2)</name>
+    <desc>St. Lawrence Mine (St. Lawrence Rand Mine; K.C.N. Mine; Isabella Mine), Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+  <wpt lat="0.0" lon="0.0">
+    <name>Tom Moore Mine (2)</name>
+    <desc>Tom Moore Mine, Erskine Creek Mining District, Kern County, California, USA
+
+Coordinates: PLACEHOLDER
+Status: To be set to Exact if sourced from Mindat coordinates; otherwise Approximate (geocoded).</desc>
+  </wpt>
+</gpx>

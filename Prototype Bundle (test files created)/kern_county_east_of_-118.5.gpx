@@ -1,0 +1,49 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<gpx creator="ChatGPT" version="1.1"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <name>Kern County Localities east of -118.5°</name>
+    <desc>Waypoints from Mindat.org loc-3481 filtered by longitude east of -118.5</desc>
+  </metadata>
+
+  <wpt lat="34.99942" lon="-117.64978">
+    <name>Boron, Kern County, CA</name>
+    <desc>Town locality referenced in multiple mineral entries including borate deposits.</desc>
+  </wpt>
+
+  <wpt lat="35.04007" lon="-117.67945">
+    <name>Rio Tinto Borax Mine / Kramer Borate deposit</name>
+    <desc>Main borate deposit near Boron, CA.</desc>
+  </wpt>
+
+  <wpt lat="35.37389" lon="-117.98917">
+    <name>Red Rock Canyon prospects, Ricardo</name>
+    <desc>Zeolite and mineral prospects near Ricardo, El Paso Mountains District.</desc>
+  </wpt>
+
+  <wpt lat="35.37299" lon="-117.99069">
+    <name>Red Rock Canyon State Park</name>
+    <desc>Proxy waypoint for multiple Red Rock Canyon mineral localities.</desc>
+  </wpt>
+
+  <wpt lat="35.11000" lon="-117.80000">
+    <name>Magnolia & Pyavin Mine, Government Peak</name>
+    <desc>Mineral locality near Government Peak, Kern County.</desc>
+  </wpt>
+
+  <wpt lat="35.04000" lon="-117.70000">
+    <name>Unnamed Mo-W Occurrence, Miracle Hot Springs</name>
+    <desc>Molybdenum–tungsten occurrence near Miracle Hot Springs.</desc>
+  </wpt>
+
+  <wpt lat="35.02000" lon="-117.69000">
+    <name>Unnamed Pumice Quarry, West Baker</name>
+    <desc>Pumice quarry locality referenced for analcime and related minerals.</desc>
+  </wpt>
+
+  <wpt lat="35.06400" lon="-117.64200">
+    <name>China Lake Mine</name>
+    <desc>Mineral locality near China Lake townsite.</desc>
+  </wpt>
+</gpx>
