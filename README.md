@@ -1,4 +1,16 @@
 # Kern County Mines and Localities GPX
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/819d9b6a-535f-4f72-8df8-f2d360b62c06" width="600">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be206436-36f3-4acf-868e-3dc0432f0fe9" width="600">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7edd65cd-cdf2-4740-adc0-79f881313289" width="600">
+</p>
+
 
 A comprehensive GPX waypoint dataset of **600+ mines and mineral localities in Kern County, California**. Waypoints are derived from Mindat strings and geocoded into GPS coordinates, with naming modifiers to distinguish **major confirmed mines** from **approximate or inferred locations**.
 
