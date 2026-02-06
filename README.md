@@ -2,16 +2,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/819d9b6a-535f-4f72-8df8-f2d360b62c06" width="600">
 </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/be206436-36f3-4acf-868e-3dc0432f0fe9" width="600">
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7edd65cd-cdf2-4740-adc0-79f881313289" width="600">
-</p>
-
-
 A comprehensive GPX waypoint dataset of **600+ mines and mineral localities in Kern County, California**. Waypoints are derived from Mindat strings and geocoded into GPS coordinates, with naming modifiers to distinguish **major confirmed mines** from **approximate or inferred locations**.
 
 This dataset is designed for **offline, WiFi-less use** in remote regions and is compatible with standard GPS devices, mobile apps, and desktop GIS software.
@@ -49,8 +39,11 @@ This dataset is designed for **offline, WiFi-less use** in remote regions and is
 ---
 
 ## Waypoint Notes
-- Waypoint names depict whether a location is a **major mine** or an **approximate geocoded locality**.
-- Some coordinates are inferred via textual descriptions and may not have the exact location.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be206436-36f3-4acf-868e-3dc0432f0fe9" width="600">
+</p>
+- Waypoint names indicate whether a location is a major mine or an approximate geocoded locality.
+- Some coordinates are inferred via textual descriptions and may not represent the exact location.
 
 ---
 
