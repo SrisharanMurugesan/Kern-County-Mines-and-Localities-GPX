@@ -48,7 +48,7 @@ This dataset is designed for **offline, WiFi-less use** in remote regions and is
 ---
 
 ## Author’s Note
-This dataset was created for my personal trip through Kern County, California, where my friends and I were camping in remote desert areas with no cell service or WiFi. Having access to an offline GPX file was extremely useful for navigation and trip efficiency. This set has been tried an tested. I hope you enjoy!
+This dataset was created for my personal trip through Kern County, California, where my friends and I were camping in remote desert areas with no cell service or WiFi. Having access to an offline GPX file was extremely useful for navigation and trip efficiency. This set has been tried and tested. I hope you enjoy!
 
 
 
